@@ -177,26 +177,34 @@ footer{
         height: 1550px;
     }
     .par1{
+        text-align: center;
+        font-size: 25px;
         top: 600px;
         left: 40px;
         height: 400px;
         width: 400px;
     }
     .par2{
+        text-align: center;
+        font-size: 25px;        
         top: 1100px;
-        right: 540px;
+        left: 40px;
         height: 400px;
         width: 400px;
     }
     .par3{
+        text-align: center;
+        font-size: 25px;
         top: 600px;
         left: 490px;
         height: 400px;
         width: 400px;
     }
     .par4{
+        text-align: center;
+        font-size: 25px;
         top: 1100px;
-        right: 90px;
+        left: 490px;
         height: 400px;
         width: 400px;
     }
